@@ -1,0 +1,6 @@
+/Users/johndoe/Projects/myapp/myapp/bin/Debug/myapp.exe
+/Users/johndoe/Projects/myapp/myapp/bin/Debug/myapp.pdb
+/Users/johndoe/Projects/myapp/myapp/obj/x86/Debug/myapp.csprojAssemblyReference.cache
+/Users/johndoe/Projects/myapp/myapp/obj/x86/Debug/myapp.csproj.CoreCompileInputs.cache
+/Users/johndoe/Projects/myapp/myapp/obj/x86/Debug/myapp.exe
+/Users/johndoe/Projects/myapp/myapp/obj/x86/Debug/myapp.pdb
